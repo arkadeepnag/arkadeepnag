@@ -1,68 +1,54 @@
 <div align="center">
 
 # Arkadeep Nag
-### Developer · Systems Engineer · Researcher
+Developer · Systems Engineer · Researcher
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=720&lines=Building+Autonomous+Intelligent+Systems;Continuous-State+Decision+Making;AI+%2B+Systems+%2B+Robotics+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=3366CC&center=true&vCenter=true&width=700&lines=Autonomous+Systems+and+AI;Low-Level+and+Distributed+Software;Robotics+and+Embedded+Engineering" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/arkadeepnag">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://medium.com/@arkadeepnag">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://dev.to/arkadeepnag">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@arkadeepnag">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/arkadeepnag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@arkadeepnag"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/arkadeepnag"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://youtube.com/@arkadeepnag"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### Focus & Direction
+I work on autonomous and intelligent systems with a focus on how learning-based models interact with real software and hardware constraints. My interests sit between artificial intelligence, operating systems, robotics, and embedded platforms.
 
-I work on building **autonomous intelligent systems** that operate in continuous environments and learn through interaction. My primary interest lies in designing agents that reason under uncertainty, build internal world models, and translate perception into reliable action.
+Most of my work involves designing systems that operate in continuous environments, reason under uncertainty, and remain stable when deployed outside controlled settings. I care about correctness, performance, and long-term maintainability more than rapid prototyping.
 
-My work spans **large language models**, **probabilistic decision-making**, **low-level systems**, and **robotics software**, with an emphasis on correctness, scalability, and research-grade engineering. I am particularly interested in the interface between AI and systems engineering, where learning algorithms meet operating systems, distributed infrastructure, and real-world constraints.
-
-Long term, I aim to contribute to and build **humanoid-level autonomous systems** by unifying machine learning, control theory, and hardware-aware software design.
+I am gradually working toward research and engineering problems related to embodied intelligence and autonomous machines, combining machine learning, control, and low-level system design.
 
 ---
-
-<div align="center">
 
 ### Technical Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,linux,ros,pytorch,tensorflow,docker,kubernetes,git,bash,postgres,redis,aws&perline=14" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,python,linux,ros,embedded,pytorch,tensorflow,docker,git,bash,postgres,redis&perline=10" />
 
-</div>
+**Low-level:** C, C++, x86 Assembly  
+**Systems:** Linux internals, kernels, memory, concurrency  
+**AI/ML:** PyTorch, TensorFlow, probabilistic models  
+**Robotics:** ROS2, sensor pipelines, control systems  
+**Embedded:** Microcontrollers, bare-metal, hardware-aware software  
+**Backend:** Distributed systems, databases, containers
 
 ---
 
-### Research Philosophy
+### Notes
 
-I do not treat intelligence as a black box. I believe robust autonomy emerges from carefully engineered representations, feedback loops, and system-level constraints. I prioritize foundations over shortcuts, and long-term system integrity over rapid demos.
-
----
-
-### Manifesto
-
-> Build systems that generalize.  
-> Engineer intelligence, do not approximate it.  
-> Favor depth, correctness, and principled design over trends.
+I use this profile to track long-term projects and experiments rather than short demos.  
+Most repositories reflect work-in-progress systems or research-driven prototypes.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arkadeepnag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeepnag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arkadeepnag&show_icons=true&hide_border=true&bg_color=0D1117" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeepnag&layout=compact&hide_border=true&bg_color=0D1117" height="150"/>
 
 </div>
