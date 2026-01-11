@@ -11,15 +11,11 @@ My long-term direction is centered on embodied intelligence, where machine learn
 ## Let's Connect!
 
 <a href="https://medium.com/@arkadeepnag">
-  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium" />
+  <img src="https://img.shields.io/badge/Medium-–?style=flat-square&logo=medium&logoColor=black&color=white" />
 </a>
 <a href="https://dev.to/arkadeepnag">
-  <img src="https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to" />
+  <img src="https://img.shields.io/badge/Dev.to-–?style=flat-square&logo=dev.to&logoColor=black&color=white" />
 </a>
 <a href="https://linkedin.com/in/arkadeepnag">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-–?style=flat-square&logo=linkedin&logoColor=0A66C2&color=white" />
 </a>
-<a href="https://youtube.com/@arkadeepnag">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube" />
-</a>
-
